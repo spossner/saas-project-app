@@ -15,7 +15,7 @@
       <imported>true</imported>
       <remarks>$PROJECT_DIR$/config/database.yml</remarks>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/saas_project_app_development</jdbc-url>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/saas_project_app_dev</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="Rails saas-project-app: test" uuid="ead92ef4-2bec-4f6f-be36-09782f685869">
       <driver-ref>postgresql</driver-ref>
